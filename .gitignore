@@ -1,0 +1,4 @@
+*.jpg
+*.exe
+netcat-win32-1.12/
+chat.py
